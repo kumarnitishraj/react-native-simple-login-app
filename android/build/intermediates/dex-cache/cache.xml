@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nitish/.android/build-cache/1179acc3ca6188ae7544b903f55501295184edbd/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/nitish/react native/reduxx/Login/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_856ee86c5480d93e677420ad52e477b3466ead81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nitish/.android/build-cache/1179acc3ca6188ae7544b903f55501295184edbd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/home/nitish/react native/reduxx/Login/android/app/build/intermediates/pre-dexed/debug/classes_2c5006aeaf48b4efe0534c70482e72c827e0811d.jar" />
+    </item>
+
+</items>

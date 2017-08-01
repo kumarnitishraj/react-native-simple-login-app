@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nitish/react native/reduxx/Login/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/nitish/react native/reduxx/Login/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nitish/react native/reduxx/food/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/nitish/react native/reduxx/food/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
